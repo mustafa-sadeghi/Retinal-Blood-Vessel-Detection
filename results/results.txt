@@ -1,0 +1,9 @@
+Image 1.tif: sensitivity = 0.857078, specificity = 0.963809, accuracy = 0.958798
+Image 2.tif: sensitivity = 0.888729, specificity = 0.954126, accuracy = 0.950676
+Image 3.tif: sensitivity = 0.535772, specificity = 0.971583, accuracy = 0.939441
+Image 4.tif: sensitivity = 0.914978, specificity = 0.940037, accuracy = 0.938399
+Image 5.tif: sensitivity = 0.833041, specificity = 0.937273, accuracy = 0.932774
+Image 6.tif: sensitivity = 0.747832, specificity = 0.967429, accuracy = 0.951773
+Image 7.tif: sensitivity = 0.820873, specificity = 0.952091, accuracy = 0.945266
+Image 8.tif: sensitivity = 0.885040, specificity = 0.947636, accuracy = 0.944230
+Image 9.tif: sensitivity = 0.768617, specificity = 0.969098, accuracy = 0.954640
